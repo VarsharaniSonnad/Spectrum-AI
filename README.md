@@ -2,7 +2,7 @@ Here’s a clear and concise **README structure** you can use for your AI Spectr
 
 ---
 
-# AI Spectrum – AI-Powered Virtual Receptionist
+# NLP powered smart facilitator for IT industry- Spectrum AI
 
 ## Overview
 
