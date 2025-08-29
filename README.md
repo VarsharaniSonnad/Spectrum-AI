@@ -19,7 +19,7 @@ AI Spectrum is a virtual receptionist system that enables intelligent, real-time
 
 * **Backend:** Python / Node.js (depending on your implementation)
 * **APIs:** OpenAI, Blend API
-* **Libraries:** SpeechRecognition, PyTorch/TensorFlow (if using ML models), etc.
+* **Libraries:** SpeechRecognition, flask etc.
 
 ## Installation
 
